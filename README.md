@@ -6,7 +6,7 @@ iOSHomeAnimation
   [link]: http://youtu.be/ZsFamtP0ttE
   [image]: http://i3.ytimg.com/vi/ZsFamtP0ttE/0.jpg
  
-ライセンス
+License
 ----------
 Copyright &copy; 2011 tikitikipoo
 Licensed under the [Apache License, Version 2.0][Apache]
